@@ -1,13 +1,15 @@
-# Rapport lab-git 
+---
+layout: default
+slug: /index
+order: 1
+---
 
-## Page de guarde 
+{% assign chapitres = site.pages | sort: "order" %}
 
+{% for chapitre in chapitres %}
+  {% if chapitre.title %}
+    {{ chapitre.content }}
+  {% endif %}
+{% endfor %}
 
-## Table de matiere
-
-
-## Introduction 
-
-
-
-## Conclusion 
+ 
