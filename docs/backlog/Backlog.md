@@ -11,13 +11,12 @@ order: 2
 - DOCS
   - Index.md
   - Introduction
-  - Conclusion
     - images
     - Introduction.md
   - Conclusion
     - Images
     - Conclusion.md
   - Backlog
-      - structure de dossier
+    - Backlog.md
   -  rapport.md
   -  présentation.html
