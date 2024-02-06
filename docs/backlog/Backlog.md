@@ -8,7 +8,7 @@ order: 2
 ## Backlog
 ### Structure des dossiers
 
-- DOCS
+- docs
   - Index.md
   - Introduction
     - images
