@@ -10,6 +10,9 @@ order: 2
 
 ### Structure des dossiers
 
+![Structure des dossiers]({{site.baseurl}}/backlog/images/structuredossier.png)
+
+<!-- note -->
 - docs
   - Index.md
   - Introduction
