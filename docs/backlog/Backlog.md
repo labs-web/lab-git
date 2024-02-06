@@ -4,11 +4,12 @@ title: structure-des-dossciers.md
 order: 2
 ---
 <!--  -->
-
+<!-- new slide -->
 ## Backlog
+<!-- new detail-->
 ### Structure des dossiers
 
-- DOCS
+- docs
   - Index.md
   - Introduction
     - images
@@ -18,6 +19,7 @@ order: 2
     - Conclusion.md
   - Backlog
     - Backlog.md
+<!-- new detail-->
   - Autoformation 
     - Compte-rendu.autoformation.md
     - images 
