@@ -18,5 +18,8 @@ order: 2
     - Conclusion.md
   - Backlog
     - Backlog.md
+  - Autoformation 
+    - Compte-rendu.autoformation.md
+    - images 
   -  rapport.md
   -  présentation.html
