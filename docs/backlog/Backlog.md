@@ -10,7 +10,8 @@ order: 2
 
 ### Structure des dossiers
 
-![Structure des dossiers]({{site.baseurl}}/backlog/images/structuredossier.png)
+
+![struc]({{site.baseurl}}/backlog/images/structure.png)
 
 <!-- note -->
 - docs
