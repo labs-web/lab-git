@@ -6,11 +6,9 @@ order: 1
 {% assign pages = site.pages | sort: "order" %}
 
 {% for page in pages %}
-  {% if page.url != "/feed.xml" and  page.url != "/" and page.url != "/rapport.html " and page.url !="style.css" %}
+  {% if page.url != "/feed.xml" and  page.url != "/" and page.url != "/rapport.html" and page.url != "/assets/css/style.css" and page.url != "/présentation-data.md"  %}
 
-{{ page.content | markdownify }}
-
-
+{{ page.content |markdownify }}
 
   {% endif %}
 
