@@ -1,7 +1,7 @@
 ---
 layout: default
 title: /index
-order: 2
+order: 1
 ---
 
 
