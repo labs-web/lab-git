@@ -2,6 +2,11 @@
 
 ## les commandes à utiliser
 
+- Supprimer le répertoire .git
+```bash
+rm -rf .git
+```
+
 - Initialiser un dépôt Git
 ```bash
 git init
