@@ -1,6 +1,6 @@
 #  
 
- 
+- Référence :   
 
  
 
@@ -21,7 +21,7 @@ Le backlog est une liste ordonées des tâches
   - [6.git-revert.24.md](./Backlog/feature/6.git-revert.24.md) 
 - **sous-tâche** 
   - [2.init-rapport.10.md](./Backlog/sous-tâche/2.init-rapport.10.md) 
-  - [3.init-présentation.11.md](./Backlog/sous-tâche/3.init-présentation.11.md) 
+  - [3.init-présentation.34.md](./Backlog/sous-tâche/3.init-présentation.34.md) 
 - **thème** 
   - [1.lab-git.1.md](./Backlog/thème/1.lab-git.1.md) 
 ## Livrables 
@@ -35,10 +35,7 @@ Le backlog est une liste ordonées des tâches
 ## Références 
 
  
- 
 
-
--  [Rapport](https://labs-web.github.io/lab-git/rapport.html) 
-          
-- [Presentation](https://labs-web.github.io/lab-git/presentation)
+- [Rapport](https://labs-web.github.io/lab-git/rapport.html) 
+- [Presentation](https://labs-web.github.io/lab-git/presentation) 
 
