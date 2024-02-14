@@ -1,17 +1,11 @@
 ---
 layout: default
-slug: /index
-order: 2
+order: 1
 ---
 
- <!--  -->
-
-
- 
-## livrable
-
-### Rapport 
-[Rapport.html](https://labs-web.github.io/lab-git/rapport.html)
-
-### Présentation 
-[Présentation]()
+{% assign pages = site.pages | sort: "order" %}
+{% for page in pages %}
+ {% if page.chapitre %}
+    {{- page.content | markdownify -}}
+  {% endif %}
+{% endfor %}
