@@ -57,6 +57,41 @@ hr {
 	border-radius: 5px;
 	background: white;
 	border: rgba(0, 0, 0, 0.2) solid 1px ;
+hr {
+	/* init hr default style */
+	border-style: none;
+	border-width: 0px;
+
+	/* Simuler la nouvelle page */
+	background-color: #FAFAFA;
+	position: relative;
+	left: -1.03cm;
+    width: 21.03cm;
+    height: 2cm;
+    padding: 0px;
+    border-top: 1px #D3D3D3 solid;
+    border-bottom: 1px #D3D3D3 solid;
+    margin-top: 1cm;
+	margin-bottom: 1cm;
+
+}
+#presentation-icon{
+	position: relative;
+	top: 0;
+	left: 0;
+}
+
+.page {
+	width: 21cm;
+	/* min-height: 29.7cm; */
+	padding: 1cm;
+	margin: 1cm auto;
+	margin-top: 0px;
+ 
+	border: 1px #D3D3D3 solid;
+	border-radius: 5px;
+	background: white;
+	border: rgba(0, 0, 0, 0.2) solid 1px ;
 }
 
 
@@ -108,6 +143,7 @@ img + em {
   text-align: center;
   text-align: center;
   font-style: italic;
+  font-size: 11pt;
   font-size: 11pt;
   color: #666;
   margin-top: 5px;
@@ -161,7 +197,106 @@ h2{
 	font-size:18.0pt;
 	color:#2E74B5;
 	font-weight:normal;
+
+ /* Style Definitions lik MS Word */
+ p, li {
+margin-top:0cm;
+margin-right:0cm;
+margin-bottom:8.0pt;
+margin-left:0cm;
+line-height:107%;
+font-size:12.0pt;
+text-align: justify;
+line-height: 120%;
 }
+
+/* h1::before {
+	content: "</div><div class='page'>";
+	color: blue;
+  }
+  
+h1::after {
+	content: "";
+	color: red;
+  } */
+
+
+h1{
+	/* saute de page avant h1 */
+	page-break-before: always;
+
+	margin-top:12.0pt;
+	margin-right:0cm;
+	margin-left:0cm;
+	margin-bottom:1pt;
+	line-height:107%;
+	page-break-after:avoid;
+	font-size:25.0pt;
+	color:#2E74B5;
+	font-weight:normal;
+}
+h2{
+	/* margin-top:2.0pt; */
+	margin-right:0cm;
+	margin-left:0cm;
+	margin-bottom:1pt;
+	line-height:107%;
+	page-break-after:avoid;
+	font-size:18.0pt;
+	color:#2E74B5;
+	font-weight:normal;
+}
+h3
+	{
+	/* margin-top:2.0pt; */
+	margin-right:0cm;
+	margin-left:0cm;
+	margin-bottom:1pt;
+	line-height:107%;
+	page-break-after:avoid;
+	font-size:15.0pt;
+	color:#1F4D78;
+	font-weight:normal;
+}
+h4
+	{
+	/* margin-top:2.0pt; */
+	margin-right:0cm;
+	margin-left:0cm;
+	margin-bottom:1pt;
+	line-height:107%;
+	page-break-after:avoid;
+	font-size:14.0pt;
+	color:#2E74B5;
+	font-weight:normal;
+	font-style:italic;}
+h5
+	{
+	/* margin-top:2.0pt; */
+	margin-right:0cm;
+	margin-left:0cm;
+	margin-bottom:1pt;
+	line-height:107%;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	color:#2E74B5;
+	font-weight:normal;}
+h6
+	{
+	/* margin-top:2.0pt; */
+	margin-right:0cm;
+	margin-left:0cm;
+	margin-bottom:1pt;
+	line-height:107%;
+	page-break-after:avoid;
+	font-size:12.0pt;
+	color:#1F4D78;
+	font-weight:normal;}
+
+
+
+	
+
 h3
 	{
 	/* margin-top:2.0pt; */
