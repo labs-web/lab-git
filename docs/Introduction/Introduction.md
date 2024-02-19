@@ -1,6 +1,6 @@
 ---
 layout: default
-title: /index
+chapitre: Introduction
 order: 1
 ---
 

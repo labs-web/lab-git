@@ -1,17 +1,16 @@
 ---
 layout: default
-title: structure-des-dossciers.md
-order: 3
+chapitre: Backlog
+order: 2
 ---
-
 ## Backlog
 
 <!-- new slide -->
 
-### Structure des dossiers
+## Structure des dossiers
 
 
-![struc]({{site.baseurl}}/backlog/images/structure.png)
+![struc]({{site.baseurl}}/backlog/images/structure.png)*Figure 2:Structure des dossiers*
 
 <!-- note -->
 - docs
