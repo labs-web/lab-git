@@ -5,6 +5,7 @@ order: 4
 ---
 
 # Autoformation Git
+
 <!-- new slide -->
 
 ##  Reference 
@@ -13,6 +14,7 @@ order: 4
   - [autoformation sur git](https://www.atlassian.com/git/tutorials)
 
 - reference 2 
+  
     - [autoformation sur git](https://training.github.com/downloads/github-git-cheat-sheet/)
 
 <!-- new slide -->
