@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Autoformation.md
+chapitre: autoformation
 order: 4
 ---
 
