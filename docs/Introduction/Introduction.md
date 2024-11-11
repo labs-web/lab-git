@@ -1,6 +1,6 @@
 ---
 layout: default
-chapitre: Introduction
+chapitre : true
 order: 1
 ---
 

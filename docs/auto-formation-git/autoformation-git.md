@@ -1,6 +1,6 @@
 ---
 layout: default
-chapitre : Autoformation
+chapitre : true
 order: 3
 ---
 

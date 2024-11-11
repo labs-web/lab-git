@@ -1,6 +1,8 @@
-# git revert
+# git sub module
+
 ## Travail à faire
-- git revert
+- utilisation de sub module 
+- 
 ## Livrable
 
 - /docs/GitRevert/git-revert.md

@@ -1,6 +1,6 @@
 ---
 layout: default
-chapitre: Backlog
+chapitre : true
 order: 2
 ---
 ## Backlog
