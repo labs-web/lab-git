@@ -4,8 +4,9 @@ chapitre : true
 order: 90
 ---
 
+# Sous-module git
 
-### 1. Ajouter un Sous-module
+## 1. Ajouter un Sous-module
 
 Pour ajouter un sous-module dans votre dépôt Git principal, utilisez la commande suivante :
 
@@ -21,7 +22,7 @@ git submodule add https://github.com/utilisateur/exemple-sous-module.git sous-mo
 
 Cela créera un dossier nommé `sous-module` dans votre dépôt principal et enregistrera l’URL du sous-module dans un fichier `.gitmodules`.
 
-### 2. Mettre à Jour un Sous-module
+## 2. Mettre à Jour un Sous-module
 
 Pour mettre à jour un sous-module, accédez au sous-module et récupérez les mises à jour :
 
@@ -46,7 +47,7 @@ Pour mettre à jour tous les sous-modules en même temps (depuis la racine du d�
 git submodule update --remote
 ```
 
-### 3. Supprimer un Sous-module
+## 3. Supprimer un Sous-module
 
 Pour supprimer un sous-module :
 
@@ -75,7 +76,7 @@ Pour supprimer un sous-module :
    git commit -m "Supprimer le sous-module"
    ```
 
-### 4. Cloner un Dépôt avec des Sous-modules
+## 4. Cloner un Dépôt avec des Sous-modules
 
 Si votre dépôt principal contient des sous-modules et que vous souhaitez cloner avec tous les sous-modules :
 
@@ -92,7 +93,7 @@ Si votre dépôt principal contient des sous-modules et que vous souhaitez clone
    git submodule update
    ```
 
-### 5. Cloner un Dépôt Sans Initialiser les Sous-modules
+## 5. Cloner un Dépôt Sans Initialiser les Sous-modules
 
 Si vous souhaitez cloner un dépôt sans récupérer les sous-modules immédiatement :
 
@@ -108,9 +109,7 @@ Si vous souhaitez cloner un dépôt sans récupérer les sous-modules immédiate
    git submodule update --init <chemin-du-sous-module>
    ```
 
----
-
-### Résumé des Commandes Utiles
+## Résumé des Commandes Utiles
 
 | Action                     | Commande                                                                                       |
 |----------------------------|------------------------------------------------------------------------------------------------|
