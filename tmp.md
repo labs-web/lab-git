@@ -1,0 +1,1 @@
+<!-- ia : init-lab :  le dossier .vscode doit être ajouter au template d'un nouveau projet, : Lab, ou Projet de développement :  -->
