@@ -6,7 +6,7 @@ description: Expert unifié de la gestion, création et maintenance des composan
 
 # Skill : Expert Agent
 
-aaa
+BZ
 
 
 ## 🎯 Périmètre Global
