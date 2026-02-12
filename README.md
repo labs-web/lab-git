@@ -77,7 +77,7 @@ L'objectif est de maîtriser les commandes complexes (revert, log, diff), la ges
 -   `/docs/conflits.md` : Capture d'écran ou copie du fichier contenant les marqueurs de conflit (`<<<<<<<`, `=======`, `>>>>>>>`) avant résolution, et explication de la démarche.
 
 ### Atelier 6 : Git Revert
-#### Travail à faire
+#### Travail à faire 
 1.  **Annulation propre** :
     -   Faites un commit "indésirable".
     -   Utilisez `git revert` pour créer un *nouveau* commit qui inverse les changements.
