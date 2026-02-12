@@ -6,7 +6,8 @@ description: Expert unifié de la gestion, création et maintenance des composan
 
 # Skill : Expert Agent
 
-Modifié  ++
+BZ
+
 
 ## 🎯 Périmètre Global
 **Mission** : Assurer la cohérence, la qualité et l'évolution du "système cognitif" de l'agent en centralisant l'expertise sur ses trois piliers fondamentaux : Skills, Rules, et Workflows.
